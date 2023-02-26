@@ -1,0 +1,21 @@
+[submodule "WallPad-Server"]
+	path = WallPad-Server
+	url = https://github.com/webOS-KOSS/WallPad-Server
+[submodule "ControlRecommend"]
+	path = ControlRecommend
+	url = https://github.com/webOS-KOSS/ControlRecommend
+[submodule "CCTV"]
+	path = CCTV
+	url = https://github.com/webOS-KOSS/CCTV
+[submodule "HomeTraining"]
+	path = HomeTraining
+	url = https://github.com/webOS-KOSS/HomeTraining
+[submodule "Delivery"]
+	path = Delivery
+	url = https://github.com/webOS-KOSS/Delivery
+[submodule "CarScheduling"]
+	path = CarScheduling
+	url = https://github.com/webOS-KOSS/CarScheduling
+[submodule "AppStore"]
+	path = AppStore
+	url = https://github.com/webOS-KOSS/AppStore
